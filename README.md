@@ -8,5 +8,5 @@
 	- `python3 _translate.py` or `python _translate.py`
 	- enter file name and extension example `file.txt`
 	- enter language prefer example `german`
+**email me @ savjaylade84@gmail.com**<br>
 > **⚠ WARNING: The api that uses this program has limited uses it might broke for some time**<br>
-**email me @ savjaylade84@gmail.com**
