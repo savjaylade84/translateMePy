@@ -22,8 +22,8 @@ try:
     with open(filename,'r') as reader:
         for line in reader:
             line.strip()
-            print(">>>[original]:{0}",line)
+            print('>>>[original]:',line)
             translation=translator.translate(line)
-            print(">>>[translated]:{0}",translation)
+            print('>>>[translated]:',translation)
 except:
    print("[File Not Exist Or Wrong Path File]")
